@@ -32,16 +32,12 @@ Welcome to the IPL Data Analysis Project! This repository contains the analysis 
 2. Open the file in Power BI Desktop.
 3. Explore the interactive dashboard to uncover insights into IPL player and team performance.
 
-## Acknowledgments
-Special thanks to [Name] for their inspiration and guidance throughout this project!
-
 ## Connect with Me
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- GitHub: [Your GitHub Profile](https://github.com/yourprofile)
-- 
+- LinkedIn: (www.linkedin.com/in/amit-sharma-294642251) (https://www.linkedin.com/posts/amit-sharma-294642251_ipl-2021-2023-data-insights-and-analysis-activity-7181262497314652160-uJ_W?utm_source=share&utm_medium=member_desktop)
 
 
-This is my Dashboard(IPL Dashboard) [https://www.novypro.com/project/ipl-2021-2023-performance-data-insights-and-analysis]
+
+This is my Dashboard [IPL Dashboard] (https://www.novypro.com/project/ipl-2021-2023-performance-data-insights-and-analysis)
 
 Feel free to reach out for any questions, feedback, or collaboration opportunities!
 
