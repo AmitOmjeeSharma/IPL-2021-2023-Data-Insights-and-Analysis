@@ -1,4 +1,4 @@
-# IPL 2021-2023: Data Insights and Analysis
+# IPL 2021-2023: Data Insights and Analysis Using Power BI
 
 ## Overview
 Welcome to the IPL Data Analysis Project! This repository contains the analysis and insights derived from three years of IPL data spanning from 2021 to 2023. Leveraging Power BI, we have meticulously analyzed player and team performance to uncover trends, make predictions, and provide valuable insights for cricket enthusiasts, analysts, and teams.
